@@ -3,7 +3,19 @@ h3{
    font-size:24px;
 }
 
-div{
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color:white;
+    text-decoration:none;
+    padding:0;
+
+}
+.list-contents{
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
     color: white;
 }
 
